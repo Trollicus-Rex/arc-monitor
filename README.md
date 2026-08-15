@@ -1,4 +1,4 @@
-#  ArcMonitor & Telemetry Daemon
+# Steve ArcMonitor & Telemetry Daemon
 
 A bare-metal hardware discovery, unprivileged telemetry, and device management suite for **Intel Arc (Alchemist & Battlemage)** GPUs on Linux. Complete with a Cinnamon Desktop Applet themed around Tech Jesus himself.
 

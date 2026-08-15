@@ -1,0 +1,8 @@
+{
+    "uuid": "arc-monitor@local",
+    "name": "Intel Arc Monitor",
+    "description": "Monitors Intel Arc GPU telemetry via arcd",
+    "icon": "video-display",
+    "max-instances": 1,
+    "multiversion": true
+}
