@@ -1,7 +1,7 @@
 [arcd.c](https://github.com/user-attachments/files/31110790/arcd.c)
 [arc_cli.c](https://github.com/user-attachments/files/31110789/arc_cli.c)
 [applet.js](https://github.com/user-attachments/files/31110788/applet.js)
-# Steve ArcMonitor & Telemetry Daemon
+# "Covenant" ArcMonitor & Telemetry Daemon
 
 A bare-metal hardware discovery, unprivileged telemetry, and device management suite for **Intel Arc (Alchemist & Battlemage)** GPUs on Linux. Complete with a Cinnamon Desktop Applet themed around Tech Jesus himself.
 
